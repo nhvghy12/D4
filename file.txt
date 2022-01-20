@@ -1,0 +1,10 @@
+Hello from MyCustomMiddleware
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":""}
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":"?page=10\u0026size=1\u0026orderBy=ASC"}
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":"?page=10\u0026size=1\u0026orderBy=ASC"}
+{"Scheme":"https","Host":"localhost:7088","Path":"/favicon.ico","QueryString":""}
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":""}
+{"Scheme":"http","Host":"localhost:5011","Path":"/","QueryString":"","Body":""}
+{"Scheme":"http","Host":"localhost:5011","Path":"/favicon.ico","QueryString":"","Body":""}
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":"","Body":""}
+{"Scheme":"https","Host":"localhost:7088","Path":"/","QueryString":"?page=10\u0026size=1\u0026orderBy=ASC","Body":"{\r\n    \u0022name\u0022: \u0022Dung\u0022,\r\n    \u0022age\u0022: 20\r\n}"}
